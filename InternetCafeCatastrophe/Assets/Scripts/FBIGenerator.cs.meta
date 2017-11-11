@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d3fa14c5c384e34086f602ae63b8d63
+timeCreated: 1496763482
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FBI: {instanceID: 0}
+  - FbiButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

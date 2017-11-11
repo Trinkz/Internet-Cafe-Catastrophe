@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5c2afeb5521ff6c418b95e2a2c6b48a4
+timeCreated: 1505666624
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - requestTag: {instanceID: 0}
+  - dragTag: {instanceID: 0}
+  - foodSpoil: {instanceID: 0}
+  - monies: {instanceID: 0}
+  - noMonies: {instanceID: 0}
+  - yuck: {fileID: 8300000, guid: 7ed4f1eee254a1347868a86201cf663b, type: 3}
+  - nav: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

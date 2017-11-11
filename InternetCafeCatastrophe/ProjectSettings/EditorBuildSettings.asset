@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: b4f70ec19ca9db943b91363b114d859a
+  - enabled: 1
+    path: Assets/_Scenes/ICC_Stage1.unity
+    guid: 02173aafb63356d4a89eaba623ac482e
+  - enabled: 1
+    path: Assets/_Scenes/CreditScene.unity
+    guid: e550eb726ede1244c86c48b0b62f001c
+  - enabled: 1
+    path: Assets/_Scenes/LevelSelectScreen.unity
+    guid: 647901c44cdad5b4e81f4de71dc40291
+  - enabled: 1
+    path: Assets/_Scenes/LevelOne.unity
+    guid: 0128cbffff4136946885e6779428b463
+  - enabled: 1
+    path: Assets/_Scenes/Level1CutScene.unity
+    guid: 0be9cb3481cdade4db5edbbf0771d484
+  - enabled: 1
+    path: Assets/_Scenes/LevelTwo.unity
+    guid: 649d2c27a0721ad44b7ecb54c8979c2a
+  - enabled: 1
+    path: Assets/_Scenes/Level2CutScene.unity
+    guid: 29d7a2cf9ca013949bea9b28bbec1ef6
+  - enabled: 1
+    path: Assets/_Scenes/Level3CutScene.unity
+    guid: 0ee74df2e9d3faf49b14abd3c4ac7403
+  - enabled: 1
+    path: Assets/_Scenes/LevelThree.unity
+    guid: 48f0686084de51c49843c9d2455586b6
+  - enabled: 1
+    path: Assets/_Scenes/Endless.unity
+    guid: f0404eabf3bf29b4c9d512935550d498

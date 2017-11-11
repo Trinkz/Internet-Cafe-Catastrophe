@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoint
+  - Customer
+  - GraveYard
+  - Hacker
+  - 1337Hacker
+  - Guard
+  - ResetWP
+  - FBI
+  - food
+  - Inspector
+  - InspectionPT1
+  - InspectionPT2
+  - InspectionPT3
+  - InspectionPT4
+  - Death
+  - Fly
+  - Coffee
+  - Soda
+  - Soup
+  - Juice
+  - Smoothie
+  - Salad
+  - Burger
+  - Desk
+  - floor
+  - Trash
+  - Bagel
+  - boolChanger
+  - TrashBin
+  - Janitor
+  - Waiter
+  - Jail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacles
+  - Targets
+  - FireLayer
+  - Video
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
